@@ -13,25 +13,23 @@ $first_name     = $_POST['first_name'];
 $last_name     = $_POST['last_name'];
 $email    = $_POST['email'];
 $phone   = $_POST['phone'];
-$select_price   = $_POST['select_price'];
-$select_service   = $_POST['select_service'];
 $subject  = $_POST['subject'];
 $comments = $_POST['comments'];
 $verify   = $_POST['verify'];
 
 if(trim($first_name) == '') {
-	echo '<div class="error_message">Attention! You must enter your name.</div>';
+	echo '<div class="error_message">¡Atención! Debes ingresar tu nombre.</div>';
 	exit();
 }  else if(trim($email) == '') {
-	echo '<div class="error_message">Attention! Please enter a valid email address.</div>';
+	echo '<div class="error_message">¡Atención! Introduzca una dirección de correo electrónico válida.</div>';
 	exit();
 } else if(!isEmail($email)) {
-	echo '<div class="error_message">Attention! You have enter an invalid e-mail address, try again.</div>';
+	echo '<div class="error_message">¡Atención! Ha introducido una dirección de correo electrónico no válida, inténtelo de nuevo.</div>';
 	exit();
 }
 
 if(trim($comments) == '') {
-	echo '<div class="error_message">Attention! Please enter your message.</div>';
+	echo '<div class="error_message">¡Atención! No se ha escrito ningun mensaje.</div>';
 	exit();
 }
 
@@ -45,7 +43,7 @@ if(get_magic_quotes_gpc()) {
 // Example $address = "joe.doe@yourdomain.com";
 
 //$address = "example@themeforest.net";
-$address = "example@yourdomain.com";
+$address = "diegomarty1200@gmail.com";
 
 
 // Configuration option.
@@ -60,7 +58,7 @@ $e_subject = 'You\'ve been contacted by ' . $first_name . '.';
 // You can change this if you feel that you need to.
 // Developers, you may wish to add more fields to the form, in which case you must be sure to add them here.
 
-$e_body = "You have been contacted by $first_name. $first_name selected service of $select_service, their additional message is as follows. Customer max budge is $select_price, for this project." . PHP_EOL . PHP_EOL;
+$e_body = "You have been contacted by $first_name.". PHP_EOL . PHP_EOL.;
 $e_content = "\"$comments\"" . PHP_EOL . PHP_EOL;
 $e_reply = "You can contact $first_name via email, $email or via phone $phone";
 
@@ -78,8 +76,8 @@ if(mail($address, $e_subject, $msg, $headers)) {
 
 	echo "<fieldset>";
 	echo "<div id='success_page'>";
-	echo "<h1>Email Sent Successfully.</h1>";
-	echo "<p>Thank you <strong>$first_name</strong>, your message has been submitted to us.</p>";
+	echo "<h1>Mensaje enviado correctamente.</h1>";
+	echo "<p>Muchas grácias <strong>$first_name</strong>, intentaremos responderte lo antes posible.</p>";
 	echo "</div>";
 	echo "</fieldset>";
 

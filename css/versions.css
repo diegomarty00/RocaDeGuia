@@ -63,7 +63,6 @@ body.barber_version .grd1 {
 
 body.barber_version .dmtop,
 body.barber_version .icon_wrap,
-body.barber_version .dmtop:hover,
 body.barber_version .features-right li:hover i,
 body.barber_version .features-left li:hover i,
 body.barber_version .nav-pills > li:hover > a,
@@ -78,6 +77,12 @@ body.barber_version .icon-wrapper:hover i:hover{
     background-position: 100px;
     color: #ffffff;
     background: #111111;
+}
+
+body.barber_version .dmtop:hover{
+    background-position: 100px;
+    color: #ffffff;
+    background: #7C332A;
 }
 
 body.barber_version .grd1:hover,

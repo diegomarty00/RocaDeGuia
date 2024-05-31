@@ -1,0 +1,597 @@
+[
+    {
+        "nombre": "Carcassone",
+        "duracion-min": 30,
+        "duracion-max": 45,
+        "edad": 7,
+        "tipo":  ["Familia"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Password Express",
+        "duracion-min": 15,
+        "duracion-max": 20,
+        "edad": 10,
+        "tipo": ["Party"],
+        "jugadores-min": 2,
+        "jugadores-max": 10
+    },
+    {
+        "nombre": "Astra",
+        "duracion-min": 40,
+        "duracion-max": 90,
+        "edad": 10,
+        "tipo": ["Flip & Write"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Skull King",
+        "duracion-min": 30,
+        "duracion-max": 30,
+        "edad": 8,
+        "tipo": ["Familia"],
+        "jugadores-min": 2,
+        "jugadores-max": 8
+    },
+    {
+        "nombre": "Exploding Kittens",
+        "duracion-min": 15,
+        "duracion-max": 15,
+        "edad": 7,
+        "tipo": ["Party"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Mente vacuna",
+        "duracion-min": 20,
+        "duracion-max": 30,
+        "edad": 10,
+        "tipo": ["Party"],
+        "jugadores-min": 4,
+        "jugadores-max": 20
+    },
+    {
+        "nombre": "Optimus",
+        "duracion-min": 30,
+        "duracion-max": 30,
+        "edad": 8,
+        "tipo": ["Familia"],
+        "jugadores-min": 1,
+        "jugadores-max": 4
+    },
+    {
+        "nombre": "Optimus 2",
+        "duracion-min": 30,
+        "duracion-max": 30,
+        "edad": 8,
+        "tipo": ["Familia"],
+        "jugadores-min": 1,
+        "jugadores-max": 4
+    },
+    {
+        "nombre": "París: La Cité de la Lumiére",
+        "duracion-min": 30,
+        "duracion-max": 30,
+        "edad": 8,
+        "tipo": ["Abstracto"],
+        "jugadores-min": 2,
+        "jugadores-max": 2
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    {
+        "nombre": "Ankh",
+        "duracion-min": 90,
+        "duracion-max": 90,
+        "edad": 14,
+        "tipo": ["Conquista"],
+        "jugadores-min": 2,
+        "jugadores-max": 5
+    },
+    
+]
