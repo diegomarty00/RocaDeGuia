@@ -1,0 +1,52 @@
+<!DOCTYPE HTML>
+
+<html lang="es">
+
+<head>
+	<!-- Datos que describen el documento -->
+	<meta charset="UTF-8" />
+	<meta name="author" content="Diego Martinez Menendez" />
+	<meta name="description" content="Página de inicio del sitio web" />
+	<meta name="keywords" content="HTML, HTML5, W3C, estandar, whatwg, index" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>Escritorio Virtual - Inicio</title>
+	<link rel="stylesheet" type="text/css" href="estilo/layout.css" />
+	<link rel="stylesheet" type="text/css" href="estilo/estilo.css" />
+	<link rel="icon" href="multimedia/imagenes/Logo.ico" type="image/x-icon">
+	<script src="https://code.jquery.com/jquery-3.7.1.min.js"
+		integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+	<!--jquery min-->
+	<script src="js/fondo.js"></script>
+	<script src="js/pais.js"></script>
+</head>
+
+<body>
+	<!-- Datos con el contenidos que aparece en el navegador -->
+	<header>
+		<h1>Escritorio Virtual</h1>
+		<nav>
+			<a href="index.html" tabindex="1" class="active" accesskey="i">Inicio</a>
+			<a href="sobremi.html" tabindex="2" accesskey="s">Sobre mi</a>
+			<a href="noticias.html" tabindex="3" accesskey="n">Noticias</a>
+			<a href="agenda.html" tabindex="4" accesskey="a">Agenda</a>
+			<a href="meteorologia.html" tabindex="5" accesskey="m">Meteorología</a>
+			<a href="php/viajes.php" tabindex="6" accesskey="v">Viajes</a>
+			<a href="juegos.html" tabindex="7" accesskey="j">Juegos</a>
+		</nav>
+	</header>
+	<main>
+	</main>
+	<script>
+		var aviles = new Pais('Asturias', 'Aviles', 78715);
+
+		aviles.setCoordenadas('-5.92483', '43.55473');
+		aviles.setGobierno('Monarquía parlamentaria');
+		aviles.setReligion('Cristianismo');
+
+		var fondo = new Fondo(aviles.nombre, aviles.capital, aviles.coordenadasCapital)
+		fondo.buscaFoto();
+
+	</script>
+</body>
+
+</html>
